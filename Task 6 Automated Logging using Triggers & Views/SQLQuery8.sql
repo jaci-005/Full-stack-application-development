@@ -1,0 +1,1 @@
+SELECT * FROM Daily_Activity_Report;
